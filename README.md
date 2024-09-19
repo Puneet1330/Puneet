@@ -1,2 +1,2 @@
-# Puneet
+# Puneet demo
 This is my first git repo
